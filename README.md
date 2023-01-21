@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jame786Bond
+- 👋 Hi, I’m @jame786
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on ...
